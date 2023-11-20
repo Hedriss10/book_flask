@@ -3,8 +3,7 @@
     proejeto está rodand, se estará em produção, teste, ou desenvolvimento     
 """
 
-import os 
-import random, string
+import os
 
 
 class Config(object):
@@ -49,4 +48,4 @@ app_config =  {
 }
 
 
-app_active = os.getenv("FLASK_ENV")
+app_active = os.getenv("FLASK_ENV", "development")
