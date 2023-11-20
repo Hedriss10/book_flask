@@ -3,4 +3,4 @@
 
 **Introdução rápida:**
 
-*Treinamento e estudos de flask, desenvolvendo projetos e aperfeiçoando o conhecimento para abplicações robustas em MVC*
+*Treinamento intensivo e estudos do Flask desenvolvendo aplicações robustas*
